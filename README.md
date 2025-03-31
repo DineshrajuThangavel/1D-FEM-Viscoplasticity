@@ -4,7 +4,7 @@ This project implements a custom finite element simulation in Python to model th
 
 ## 📌 Features
 - 1D nonlinear FEM for time-dependent material behavior
-- Segment 1: purely elastic, Segment 2: viscoplastic
+- Elastic–viscoplastic transition based on stress threshold
 - Weak form derivation and consistent tangent matrix
 - Newton-Raphson method with backward Euler time integration
 - Verification via convergence study and analytical comparison

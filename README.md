@@ -10,9 +10,8 @@ This project implements a custom finite element simulation in Python to model th
 - Verification via convergence study and analytical comparison
 
 ## 🧾 Files
-- `69306.py`: Main Python code implementing the FEM solver
-- `NLFEM_Report_Dinesh.pdf`: Full documentation with derivations, results, and plots
-- `assignment_2024_25.pdf`: Original assignment description
+- `NLFEM_Solver.py`: Main Python code implementing the FEM solver
+- `NLFEM_Report.pdf`: Full documentation with derivations, results, and plots
 
 ## 📊 Outputs
 - Displacement vs time

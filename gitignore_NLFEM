@@ -1,0 +1,14 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+*.png
+*.pdf
+*.eps
+*.svg
+
+# IDE configs
+.vscode/
+.idea/
